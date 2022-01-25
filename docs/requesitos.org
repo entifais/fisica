@@ -1,7 +1,7 @@
 **** biomecanica de peces saltadores,
         como arawana, arapaima,salmones,ciclidos
         analisis: vecotorial y cinematico de los peces saltadores
-        estudio: pez movimiento del agua y posion de la presa
+        estudio: pez, movimiento del agua y posicion de la presa
         en semana 5 preinforme
         en semana 7 exposicion
 **** estructura

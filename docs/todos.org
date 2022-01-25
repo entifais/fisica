@@ -5,12 +5,20 @@
  como lo vamos a abordar desde la fisica?
  experimento
 
+** cosas a tener en cuenta
+
+   saber definir biomecanica,
+   fuerzas participantes y fenomenos
+   leer de principio de arquimedes
 ** ejemplos
    como afecta el largo de un pez en el salto y como esto puede ser aprovechable
 
 *** ejemplares 
 oscar (Astronotus ocellatus)
-arawana
-arapaima
+arawana (Osteoglossum bicirrhosum)
+pirarucu (Arapaima gigas)
 tucunare(Cichla ocellaris)
 
+se puede mostrar un resorte con una base como el pez 
+
+** 
